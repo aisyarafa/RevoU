@@ -16,7 +16,7 @@ Welcome to my repository showcasing the projects and learnings from the RevoU Da
 - **W6&7&8:** Python for Data Analysis
 - **W9&10:** Data Visualization
 - **W11:** Data Communication
-- **W12:** DEEPP Preparation
+- **W12:** DEEPP (Data Analysis End-to-End Portofolio Project) Preparation
 - **W13:** Pitching Week
 
 ## 🛠 Tools and Technologies
