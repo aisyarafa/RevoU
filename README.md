@@ -4,10 +4,6 @@ Welcome to my repository showcasing the projects and learnings from the RevoU Da
 
 ## 🚀 Program Overview
 
-### RevoU Course Timeline
-- **Start Date:** 29 May 2024
-- **End Date:** 14 September 2024
-
 ### Modules Covered
 - **W0:** Introduction to Data Analytics
 - **W1:** Understanding Business Problems
