@@ -42,9 +42,6 @@ Welcome to my repository showcasing the projects and learnings from the RevoU Da
 - `Project_Folder/`: Contains all project files and documentation.
 - `README.md`: Project documentation and overview.
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🤝 Connect with Me
 Feel free to reach out if you have any questions or if you'd like to collaborate on future projects!
 
